@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "Thomas Riser",
+  "version": "1.0.0",
+  "description": "A Hugo theme for pretty, quick and simple single-page websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier --check . ",
+    "format": "prettier --write . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-lottes/thomas.riser"
+  },
+  "author": {
+    "name": "Andreas Lottes",
+    "email": "andreas@lottes.io",
+    "url": "https://www.lottes.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-lottes/thomas.riser/issues"
+  },
+  "homepage": "https://github.com/a-lottes/thomas.riser#readme",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-go-template": "0.0.13"
+  }
+}
