@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Erika Musterfrau"
-header_subheadline: "<b>Ernährungs</b>hilfe & <b>Koch</b>beratung"
+header_headline: "Thomas Riser"
+header_subheadline: "<b>DJ</b> & <b>Produzent</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

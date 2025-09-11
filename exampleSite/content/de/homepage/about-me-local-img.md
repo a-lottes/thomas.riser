@@ -1,5 +1,5 @@
 ---
-title: "Über mich (DE folder)"
+title: "Über mich"
 weight: 3
 header_menu: true
 ---

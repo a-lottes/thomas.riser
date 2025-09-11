@@ -1,5 +1,5 @@
 ---
-title: "Credits"
+title: "Playlist"
 weight: 99
 header_menu: true
 ---
