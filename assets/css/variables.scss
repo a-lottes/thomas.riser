@@ -1,12 +1,12 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #37501a;
+    --cover-text-color: #e6e6e6;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #86c440;
+    --highlight: #4e4e4e;
     --highlight-contrast: var(--cover-text-color);
     /*inverse colors used for :hover */
-    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse: #3b3b3b;
     --highlight-inverse-contrast: white;
 
     /* visual guard around title and description, when the feature is enabled */
